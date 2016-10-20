@@ -1,0 +1,8 @@
+[02-Sep-2016 01:08:15 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/add-product.php on line 55
+[02-Sep-2016 01:08:15 UTC] PHP Stack trace:
+[02-Sep-2016 01:08:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/add-product.php:0
+[02-Sep-2016 01:08:15 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/add-product.php:55
+[02-Sep-2016 01:08:15 UTC] PHP Warning:  hash_file(): Filename cannot be empty in /home/ubuntu/workspace/add-product.php on line 62
+[02-Sep-2016 01:08:15 UTC] PHP Stack trace:
+[02-Sep-2016 01:08:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/add-product.php:0
+[02-Sep-2016 01:08:15 UTC] PHP   2. hash_file() /home/ubuntu/workspace/add-product.php:62
